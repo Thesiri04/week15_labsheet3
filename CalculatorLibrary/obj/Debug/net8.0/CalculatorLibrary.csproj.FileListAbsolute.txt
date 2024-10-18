@@ -1,0 +1,11 @@
+D:\week15_labsheet3\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+D:\week15_labsheet3\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+D:\week15_labsheet3\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+D:\week15_labsheet3\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
